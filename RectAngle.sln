@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectAngle", "RectAngle\RectAngle.csproj", "{B316CCDA-E8DB-4CAA-B0E0-8D318E8F1C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectAngleUnitTest", "RectAngleUnitTest\RectAngleUnitTest.csproj", "{90DA6B08-AAAC-4053-A8BE-1F8EC39F774E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B316CCDA-E8DB-4CAA-B0E0-8D318E8F1C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B316CCDA-E8DB-4CAA-B0E0-8D318E8F1C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B316CCDA-E8DB-4CAA-B0E0-8D318E8F1C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B316CCDA-E8DB-4CAA-B0E0-8D318E8F1C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DA6B08-AAAC-4053-A8BE-1F8EC39F774E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DA6B08-AAAC-4053-A8BE-1F8EC39F774E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DA6B08-AAAC-4053-A8BE-1F8EC39F774E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DA6B08-AAAC-4053-A8BE-1F8EC39F774E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
